@@ -26,11 +26,13 @@ Matplotlib & Seaborn: Visualização de dados
 
 Scikit-Learn: Análise e transformação de dados
 
+
 Etapas da Análise
 
 Importação de bibliotecas: Carregamento das principais ferramentas para manipulação e análise dos dados.
 
 Leitura dos dados: Carregamento do arquivo CSV e verificação inicial do DataFrame.
+
 
 Tratamento de dados:
 
@@ -40,11 +42,13 @@ Renomeação de colunas para padronização
 
 Verificação de valores nulos
 
+
 Transformação de variáveis:
 
 Conversão de variáveis categóricas para binárias
 
 Normalização de valores numéricos
+
 
 Análise descritiva:
 
@@ -54,11 +58,13 @@ Contagem e distribuição de diagnósticos
 
 Correlações entre variáveis relevantes
 
+
 Visualização de dados:
 
 Gráficos de distribuição de diagnósticos por país
 
 Percentual de diagnósticos considerando fatores genéticos e histórico familiar
+
 
 Resultados e Conclusões:
 
@@ -74,6 +80,6 @@ ContatoCaso tenha dúvidas ou sugestões, entre em contato:
 
 Email: flcam75@gmail.com
 
-LinkedIn: www.linkedin.com/in/flaviocamargo-custódio-92a65169
+LinkedIn: www.linkedin.com/in/flavio-camargo-custódio-92a65169
 
 GitHub: Seu Usuário
