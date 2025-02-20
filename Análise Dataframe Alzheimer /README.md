@@ -33,25 +33,35 @@ Importação de bibliotecas: Carregamento das principais ferramentas para manipu
 Leitura dos dados: Carregamento do arquivo CSV e verificação inicial do DataFrame.
 
 Tratamento de dados:
+
 Remoção de colunas irrelevantes
 
 Renomeação de colunas para padronização
+
 Verificação de valores nulos
 
 Transformação de variáveis:
+
 Conversão de variáveis categóricas para binárias
+
 Normalização de valores numéricos
 
 Análise descritiva:
+
 Estatísticas descritivas da variável idade
+
 Contagem e distribuição de diagnósticos
+
 Correlações entre variáveis relevantes
 
 Visualização de dados:
+
 Gráficos de distribuição de diagnósticos por país
+
 Percentual de diagnósticos considerando fatores genéticos e histórico familiar
 
 Resultados e Conclusões:
+
 A maior incidência de diagnósticos ocorre em determinados países, o que pode estar relacionado a fatores genéticos ou ambientais.
 
 Indivíduos com histórico familiar têm maior propensão ao Alzheimer.
