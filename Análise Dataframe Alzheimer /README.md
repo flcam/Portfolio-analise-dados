@@ -34,6 +34,7 @@ Leitura dos dados: Carregamento do arquivo CSV e verificação inicial do DataFr
 
 Tratamento de dados:
 Remoção de colunas irrelevantes
+
 Renomeação de colunas para padronização
 Verificação de valores nulos
 
