@@ -12,6 +12,7 @@ O repositório é organizado da seguinte forma:
 ├── notebooks/           # Jupyter Notebooks com análises detalhadas
 
 ├── images/              # Gráficos gerados pela análise
+
 └── README.md            # Este arquivo
 
 
@@ -49,15 +50,23 @@ Como Executar o Projeto
 1. Clonar o repositório
    git clone https://github.com/seu_usuario/alzheimer_analysis.git
    cd alzheimer_analysis2.
-2. Criar um ambiente virtual (opcional, mas recomendado)python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate  # Windows3. Instalar dependênciaspip install -r requirements.txt4. Executar o notebookAbra um terminal e execute:
-jupyter notebookEm seguida, abra o notebook na pasta notebooks/ para visualizar e executar a análise.
-Resultados e ConclusõesA maior incidência de diagnósticos ocorre em determinados países, o que pode estar relacionado a fatores genéticos ou ambientais.
+   
+2. Criar um ambiente virtual (opcional, mas recomendado)
+   python -m venv venv
+   source venv/bin/activate  # Linux/macOS
+   venv\Scripts\activate  # Windows
+
+3. Executar o notebookAbra um terminal e execute:
+jupyter notebook
+
+Em seguida, abra o notebook na pasta notebooks/ para visualizar e executar a análise.
+
+Resultados e Conclusões:
+A maior incidência de diagnósticos ocorre em determinados países, o que pode estar relacionado a fatores genéticos ou ambientais.
 Indivíduos com histórico familiar têm maior propensão ao Alzheimer.
 Existe uma forte correlação entre risco genético e diagnóstico positivo.
 A análise visual das distribuições fornece insights sobre os fatores de risco mais relevantes.
 ContatoCaso tenha dúvidas ou sugestões, entre em contato:
-Email: seuemail@exemplo.com
-LinkedIn: Seu Nome
+Email: flcam75@gmail.com
+LinkedIn: www.linkedin.com/in/flaviocamargo-custódio-92a65169
 GitHub: Seu Usuário
