@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 Estrutura do ProjetoO repositório é organizado da seguinte forma:
 
 
-├── data/                # Contém os arquivos de dados (ex.: CSV)
+├── data/                # Contém os arquivos de dados (ex.: CSV)   
 ├── notebooks/           # Jupyter Notebooks com análises detalhadas
 ├── images/              # Gráficos gerados pela análise
 └── README.md            # Este arquivo
