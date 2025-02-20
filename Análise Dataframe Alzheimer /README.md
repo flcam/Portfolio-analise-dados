@@ -29,6 +29,7 @@ Scikit-Learn: Análise e transformação de dados
 Etapas da Análise
 
 Importação de bibliotecas: Carregamento das principais ferramentas para manipulação e análise dos dados.
+
 Leitura dos dados: Carregamento do arquivo CSV e verificação inicial do DataFrame.
 
 Tratamento de dados:
