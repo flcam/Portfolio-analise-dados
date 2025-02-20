@@ -61,7 +61,8 @@ Como Executar o Projeto
    source venv/bin/activate  # Linux/macOS
    venv\Scripts\activate  # Windows
 
-3. Executar o notebookAbra um terminal e execute:
+3. Executar o notebook
+Abra um terminal e execute:
 jupyter notebook
 
 Em seguida, abra o notebook na pasta notebooks/ para visualizar e executar a análise.
