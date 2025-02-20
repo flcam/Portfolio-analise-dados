@@ -12,6 +12,7 @@ O repositório é organizado da seguinte forma:
 
 ├── data/                # Contém os arquivos de dados (ex.: CSV)   
 ├── notebooks/           # Jupyter Notebooks com análises detalhadas e gráficos gerados pela análise
+
 └── README.md            # Este arquivo
 
 
