@@ -76,10 +76,11 @@ Existe uma forte correlação entre risco genético e diagnóstico positivo.
 
 A análise visual das distribuições fornece insights sobre os fatores de risco mais relevantes.
 
-ContatoCaso tenha dúvidas ou sugestões, entre em contato:
+Contato
+Caso tenha dúvidas ou sugestões, entre em contato:
 
 Email: flcam75@gmail.com
 
 LinkedIn: www.linkedin.com/in/flavio-camargo-custódio-92a65169
 
-GitHub: Seu Usuário
+GitHub: Análise Dataframe Alzheimer /Análise_Alzheimer.ipynb
