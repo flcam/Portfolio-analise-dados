@@ -4,7 +4,8 @@ Descrição do Projeto
 Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) em um conjunto de dados relacionado ao diagnóstico de Alzheimer. A análise envolve a limpeza dos dados, a transformação de variáveis categóricas e numéricas, a geração de estatísticas descritivas e a visualização dos principais insights.
 
 Estrutura do ProjetoO repositório é organizado da seguinte forma:
-/
+
+
 ├── data/                # Contém os arquivos de dados (ex.: CSV)
 ├── notebooks/           # Jupyter Notebooks com análises detalhadas
 ├── images/              # Gráficos gerados pela análise
