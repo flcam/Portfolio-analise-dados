@@ -49,22 +49,6 @@ Visualização de dados:
 Gráficos de distribuição de diagnósticos por país
 Percentual de diagnósticos considerando fatores genéticos e histórico familiar
 
-Como Executar o Projeto
-1. Clonar o repositório
-   git clone https://github.com/seu_usuario/alzheimer_analysis.git
-   cd alzheimer_analysis2.
-   
-2. Criar um ambiente virtual (opcional, mas recomendado)
-   python -m venv venv
-   source venv/bin/activate  # Linux/macOS
-   venv\Scripts\activate  # Windows
-
-3. Executar o notebook
-Abra um terminal e execute:
-jupyter notebook
-
-Em seguida, abra o notebook na pasta notebooks/ para visualizar e executar a análise.
-
 Resultados e Conclusões:
 A maior incidência de diagnósticos ocorre em determinados países, o que pode estar relacionado a fatores genéticos ou ambientais.
 
